@@ -1,6 +1,5 @@
-package com.tpecx.nasp.application.response;
+package com.tpecx.nasp.api.response;
 
-import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 

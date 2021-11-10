@@ -1,7 +1,6 @@
-package com.tpecx.nasp.application.request;
+package com.tpecx.nasp.api.request;
 
 import com.tpecx.nasp.application.dto.NaspDirectoryDTO;
-import com.tpecx.nasp.domain.entity.NaspDirectory;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NonNull;

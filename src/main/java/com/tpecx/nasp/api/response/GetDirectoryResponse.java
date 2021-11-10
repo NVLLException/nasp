@@ -1,4 +1,4 @@
-package com.tpecx.nasp.application.response;
+package com.tpecx.nasp.api.response;
 
 import com.tpecx.nasp.domain.entity.NaspDirectory;
 import lombok.Builder;

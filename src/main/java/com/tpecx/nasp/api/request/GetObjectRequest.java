@@ -1,4 +1,4 @@
-package com.tpecx.nasp.application.request;
+package com.tpecx.nasp.api.request;
 
 import lombok.Getter;
 import lombok.NonNull;
