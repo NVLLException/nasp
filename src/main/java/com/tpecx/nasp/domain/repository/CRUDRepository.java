@@ -1,4 +1,4 @@
-package com.tpecx.nasp.elasticsearch;
+package com.tpecx.nasp.domain.repository;
 
 import org.springframework.data.repository.Repository;
 
